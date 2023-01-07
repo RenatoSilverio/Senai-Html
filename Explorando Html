@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+    <title>FORMULARIO</title>
+
+</head>
+
+<body>
+    <body>
+        <form>
+            <p><label>Nome: </label><input type="text" name="nome" value=""></p>
+            <p><label>Endereço: </label><input type="text" name="nome" value=""></p>
+            <p><label>Telefone: </label><input type="tel" name="Telefone" value=""></p>
+            <p><label>Email:</label><input type="email" name="email" value=""></p>
+            <p><label>Senha:</label><input type="password" name="senha" value=""></p>
+            <p><label>Cor: </label><input type="color" name="cor" value=""></p>
+            <p><label>Data:</label><input type="date" name="data" value=""></p>
+            <p><label>foto:</label><input type="file" name="Foto" value=""></p>
+            <p><label>Opção 1:</label><input type="radio" name="password" value=""></p>
+            <p><label>Opção 2:</label><input type="radio" name="password" value=""></p>
+            <p><label>Esta empregado?:</label><input type="checkbox" name="empregado" value=""></p>
+            <p><label></label><input type="submit" name="Enviar" value=""></p>
+            
+            <p>
+                <select>
+                    <option>RJ</option>
+                    <option>SP</option>
+                    <option>MG</option>
+                    <option>ES</option>
+                </select>
+            </p>
+        </form>
+    </body>
+</body>
+</html>
